@@ -1,2 +1,1 @@
-My first readme
-update from the main branch at github.com
+My first readme at github.com
