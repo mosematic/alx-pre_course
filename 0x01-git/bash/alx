@@ -1,11 +1,4 @@
-<<<<<<< HEAD
+
 #!/bin/bash
 echo "ALX School"
-=======
-<<<<<<< HEAD
-#!/bin/bash\necho "ALX School is so cool!"
-=======
->>>>>>> 81b25e17aab2ef09804581b7a20e9b21b7c1466a
-#!/bin/bash
-echo "ALX School is so cool!"
->>>>>>> origin
+
